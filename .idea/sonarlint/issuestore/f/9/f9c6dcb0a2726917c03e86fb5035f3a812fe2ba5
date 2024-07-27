@@ -1,0 +1,7 @@
+
+S	java:S106"9Replace this use of System.out or System.err by a logger.(®ù¤Ñÿÿÿÿÿ
+a	java:S128"LEnd this switch case with an unconditional break, return or throw statement.(§µ¤—
+X
+java:S1479"BReduce the number of non-empty switch cases from 38 to at most 30.(…Áü¹
+T	java:S106‚"9Replace this use of System.out or System.err by a logger.(®ëÎ§úÿÿÿÿ
+T	java:S106‡"9Replace this use of System.out or System.err by a logger.(—ÜÝ‚ýÿÿÿÿ
